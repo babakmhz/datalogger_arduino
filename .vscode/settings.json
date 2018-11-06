@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/babakmhz/.platformio/penv/bin:/home/babakmhz/.platformio/penv:/usr/local/bin:/usr/local/sbin:/usr/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/babakmhz/bin:/usr/lib/jvm/java8/bin:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/babakmhz/bin:/usr/lib/jvm/java8/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
